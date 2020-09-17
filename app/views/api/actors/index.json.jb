@@ -1,1 +1,3 @@
-@actors
+@actor.map do |actor|
+  render partial: "actor.json.jb", locals: {actor: actor}
+ end
