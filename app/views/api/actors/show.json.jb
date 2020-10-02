@@ -1,1 +1,2 @@
 render partial: "actor.json.jb", locals: {actor: @actor}
+ end
