@@ -3,6 +3,6 @@
   year: movie.year,
   plot: movie.plot,
   director: movie.director,
-  english: movie.english 
-  genres: movie.genres
+  english: movie.english, 
+  genres: movie.genres,
 }
